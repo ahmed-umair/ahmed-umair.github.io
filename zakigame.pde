@@ -1,3 +1,5 @@
+/* @pjs preload="1.png","2.png","3.png"; */
+
 //Global variables
 PImage [] images = new PImage [3];
 int inum = 1;
